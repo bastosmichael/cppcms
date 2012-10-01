@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext
+END
+mo_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/mo_file.h
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/test.cpp
+END
+lambda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/lambda.cpp
+END
+transtext.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/transtext.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/Makefile.am
+END
+mo_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/mo_file.cpp
+END
+transtext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/transtext.cpp
+END
+trans_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/transtext/trans_factory.cpp
+END

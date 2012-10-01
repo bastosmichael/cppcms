@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 29
+*.op
+*.template
+look.h
+.deps
+
+END

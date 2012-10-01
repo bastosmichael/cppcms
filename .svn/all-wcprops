@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/cppcms/!svn/ver/2162/framework/branches/maintance_0_0_x
+END
+session_sqlite_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_sqlite_storage.h
+END
+tcp_connector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_connector.cpp
+END
+session_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_interface.cpp
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/application.cpp
+END
+cppcms_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms_error.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cppcms/!svn/ver/1622/framework/branches/maintance_0_0_x/configure.in
+END
+cppcms_tmpl_cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms_tmpl_cc
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/Changelog
+END
+session_file_storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_file_storage.cpp
+END
+cppcms.kdevelop
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms.kdevelop
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cppcms/!svn/ver/1632/framework/branches/maintance_0_0_x/util.cpp
+END
+hmac_encryptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hmac_encryptor.cpp
+END
+tcp_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_cache.h
+END
+text_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/text_tool.cpp
+END
+asio_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/asio_config.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/COPYING
+END
+session_sid.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_sid.h
+END
+session_sqlite_storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_sqlite_storage.cpp
+END
+global_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/global_config.h
+END
+base_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base_cache.cpp
+END
+cppcms_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms_error.cpp
+END
+thread_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/thread_cache.h
+END
+session_cookies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_cookies.cpp
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cppcms/!svn/ver/1622/framework/branches/maintance_0_0_x/config.txt
+END
+tcp_messenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_messenger.h
+END
+worker_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/worker_thread.h
+END
+cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cgi.h
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/url.h
+END
+session_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_interface.h
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/application.h
+END
+base_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base_view.h
+END
+fcgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/fcgi.h
+END
+shmem_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/shmem_allocator.h
+END
+hmac_encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hmac_encryptor.h
+END
+session_sid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_sid.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/util.h
+END
+cache_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cache_interface.cpp
+END
+scgi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/scgi.cpp
+END
+encryptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/encryptor.cpp
+END
+text_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/text_tool.h
+END
+posix_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/posix_mutex.h
+END
+thread_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/thread_cache.cpp
+END
+cgicc_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cgicc_connection.h
+END
+session_dual.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_dual.h
+END
+fcntl_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/fcntl_mutex.h
+END
+tcp_messenger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_messenger.cpp
+END
+cppblog.prj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppblog.prj
+END
+tcp_cache_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_cache_server.cpp
+END
+worker_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/worker_thread.cpp
+END
+process_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/process_cache.cpp
+END
+url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/url.cpp
+END
+base_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base_cache.h
+END
+form.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/form.cpp
+END
+session_cookies.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_cookies.h
+END
+base_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base_view.cpp
+END
+fcgi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/fcgi.cpp
+END
+hello_world_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hello_world_view.h
+END
+hello_world_skin1.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hello_world_skin1.tmpl
+END
+light.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/light.conf
+END
+session_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_storage.h
+END
+session_tcp_storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_tcp_storage.cpp
+END
+aes_encryptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1635/framework/branches/maintance_0_0_x/aes_encryptor.cpp
+END
+manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/manager.h
+END
+session_cache_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_cache_backend.h
+END
+run_lighttpd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/run_lighttpd
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/md5.c
+END
+session_backend_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_backend_factory.h
+END
+cppcms_run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms_run
+END
+cache_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cache_interface.h
+END
+session_dual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_dual.cpp
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base64.h
+END
+scgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/scgi.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/md5.h
+END
+encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/encryptor.h
+END
+tcp_cache_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_cache_protocol.h
+END
+cgi_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cgi_api.h
+END
+tcp_connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_connector.h
+END
+process_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/process_cache.h
+END
+form.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/form.h
+END
+tcp_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/tcp_cache.cpp
+END
+hello_world_skin2.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hello_world_skin2.tmpl
+END
+session_dbixx_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_dbixx_storage.h
+END
+manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/manager.cpp
+END
+hello_world.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hello_world.cpp
+END
+session_file_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_file_storage.h
+END
+hello_world_view1.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/hello_world_view1.tmpl
+END
+session_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_api.h
+END
+session_tcp_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/session_tcp_storage.h
+END
+aes_encryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cppcms/!svn/ver/1622/framework/branches/maintance_0_0_x/aes_encryptor.h
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/base64.cpp
+END
+global_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/global_config.cpp
+END
+archive.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/archive.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cppcms/!svn/ver/2162/framework/branches/maintance_0_0_x/Makefile.am
+END
+cppcms_make_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/cppcms_make_key.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cppcms/!svn/ver/1463/framework/branches/maintance_0_0_x/autogen.sh
+END
